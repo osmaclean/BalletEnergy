@@ -3,7 +3,7 @@
     height: 32px;
     background-color: transparent;
     border: 2px solid var(--color-grey-1);
-    border-radius: 4px;
+    border-radius: 28px;
     color: var(--color-grey-1);
     width: max-content;
     display: flex;
@@ -14,7 +14,8 @@
 }
 
 .button:hover {
-    background-color: var(--color-grey-1);
+    background-color: var(--color-grey-2);
+    border: 2px solid var(--color-grey-2);
     color: var(--color-grey-4);
     cursor: pointer;
 }
@@ -30,11 +31,14 @@
 
 #button-position {
     position: sticky;
-    top: 286px;
-    z-index: 2;
+    top: 219px;
 }
 
 .outline-light:hover {
-    background-color: var(--color-grey-4);
-    color: var(--color-grey-1);
+    background: linear-gradient(
+    90deg,
+    var(--color-brand-2) 10%,
+    var(--color-brand-1) 90%
+  );
+    color: rgb(0, 0, 0);
 }

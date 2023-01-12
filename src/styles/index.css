@@ -19,7 +19,7 @@ h1 {
     flex-direction: column;
     gap: var(--gap-3);
     position: relative;
-    top: -20px;
+    top: -155px;
     left: -55px;
   }
   
