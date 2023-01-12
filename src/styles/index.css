@@ -7,12 +7,12 @@ h1 {
     color: var(--color-grey-1);
   }
   
-  .home-header {
+  .home-hd {
     padding: 200px 0;
-    background-image: url(./../images/bg.jpg);
+    background-image: url(./../images/bg2.jpg);
   }
   
-  .home-header-content {
+  .home-hd-ct {
     max-width: 600px;
     margin-top: -52px;
     display: flex;
@@ -20,21 +20,33 @@ h1 {
     gap: var(--gap-3);
   }
   
-  .home-header-content p {
+  .home-hd-ct p {
     color: var(--color-grey-3);
   }
   
-  .home-header .button {
+  .home-hd .button {
     margin-left: auto;
     margin-right: 80px;
   }
-  .participants {
+  .user {
     padding: 50px 0;
+    position: relative;
   }
   
-  .participants-content {
+  .user-ct {
     gap: 104px;
     margin-top: 50px;
     display: flex;
     flex-wrap: wrap;
   }
+
+.wave1 {
+    position: absolute;
+    bottom: 100%;
+}
+
+.wave2 {
+    position: absolute;
+    top: 100%;
+    z-index: 1;
+}
