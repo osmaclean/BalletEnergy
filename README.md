@@ -20,3 +20,14 @@
 ### Aplicado um efeito "hover" no botão e um position "sticky" para que ele acompanhe o scroll do mouse/navegador, na onda, aplicado um position "absolute" para que ela permaneça fixa ao usuário utilizar o scroll do mouse/navegador.
 
 ![balletcertotopo](https://user-images.githubusercontent.com/115199808/213892816-a360fdff-53e2-43cf-9873-4e4473d9db28.gif)
+
+<hr>
+
+## Parte 2 - Estrutura dos cards.
+
+### Criar estrutura HTML5 e estilização via CSS3.
+### Aplicado um efeito "scale" no "hover" das fotos e "hover" nos botões das mídias sociais.
+
+![cardsballet](https://user-images.githubusercontent.com/115199808/213893927-5e7d6f4c-9c23-46bc-ba8e-8ee857aec326.gif)
+
+
