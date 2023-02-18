@@ -10,7 +10,7 @@
 
 # Footer/Rodapé
 
-![balletfooter](https://user-images.githubusercontent.com/115199808/213890393-905288af-ed27-4283-98dd-d36a5df6dc38.gif)
+![image](https://user-images.githubusercontent.com/115199808/219878383-5cf54602-a839-4f38-a067-c462942cb202.png)
 
 <hr> 
 
@@ -36,6 +36,8 @@
 
 ### Criar estrutura HTML5 e estilização via CSS3. 
 ### Aplicado um efeito "hover" no botão e aplicado um position "sticky" na onda do footer para que ela acompanhe o scroll do mouse/navegador
+
+![balletfooter](https://user-images.githubusercontent.com/115199808/213890393-905288af-ed27-4283-98dd-d36a5df6dc38.gif)
 
 <hr> 
 
