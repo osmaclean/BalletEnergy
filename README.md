@@ -30,4 +30,27 @@
 
 ![cardsballet](https://user-images.githubusercontent.com/115199808/213893927-5e7d6f4c-9c23-46bc-ba8e-8ee857aec326.gif)
 
+<hr>
+
+## Parte 3 - Estrutura do footer.
+
+### Criar estrutura HTML5 e estilização via CSS3. 
+### Aplicado um efeito "hover" no botão e aplicado um position "sticky" na onda do footer para que ela acompanhe o scroll do mouse/navegador
+
+<hr> 
+
+# IDE Utilizada
+
+<div> 
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div>
+
+# Tecnologias Utilizadas
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">-
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
+
+
+
 
